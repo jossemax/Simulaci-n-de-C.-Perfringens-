@@ -33,11 +33,13 @@ Por lo tanto en nuestros tres escenarios se observaron las siguientes diferencia
 * El escenario bajo en el inicio se observa 1 punto, que es el 1% de 1e7.
 * Al terminar la simulación, el escenario bajo tan solo prsenta 100 puntos, mientras que el escenario medio cuenta con 1,000 puntos y el escenario alto se satura con 10,000 puntos, que realizando la respectiva multiplicación por 100,000 coincide con la Capacidad de Carga deseada.
 
-<img width="1258" height="470" alt="Captura de pantalla 2025-12-14 181315" src="https://github.com/user-attachments/assets/a9ceadaf-4621-4586-83f9-cebc0e43f5cf" />
+<img width="1258" height="470" alt="Petri_1" src="https://github.com/user-attachments/assets/cbc6e3bf-7d55-49e1-921a-6840b99b507a" />
+
 
 Aquí se observa el inicio de la simulación en su valor más bajo, representando el 1% de cada población.
 
-<img width="1253" height="454" alt="Captura de pantalla 2025-12-14 181420" src="https://github.com/user-attachments/assets/222e29f9-292a-4ac9-b48d-ad0d05bf0d8c" />
+<img width="1253" height="454" alt="Petri_2" src="https://github.com/user-attachments/assets/5b77c884-2627-45e1-ad64-3f93a7ae78e1" />
+
 
 Al término de la simulación la diferencia en su población final es evidente. 
 

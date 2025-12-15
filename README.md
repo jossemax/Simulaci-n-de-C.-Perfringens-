@@ -19,7 +19,7 @@ Se definieron tres escenarios de disponibilidad de nutrientes, que determinan la
 
 La primera simulación se enfocó en graficar el crecimiento logístico y calcular el tiempo necesario para alcanzar el 90% de la Capacidad de Carga (K) en cada uno de los tres escenarios.
 
-<img width="1834" height="918" alt="Captura%20de%20pantalla%202025-11-20%20220158" src="https://github.com/user-attachments/assets/bf04758c-99cf-4f69-aaf2-5c9fa3e4b036" />
+<img width="1834" height="918" alt="Captura de pantalla 2025-11-20 220158" src="https://github.com/user-attachments/assets/bf04758c-99cf-4f69-aaf2-5c9fa3e4b036" />
 
 En esta imagen se puede corroborar lo mencionado con anterioridad, las tres gráficas coinciden con su crecimiento exponencial, y el tiempo en alcanzar su respectivo 90% de población fue el mismo, la diferencia es la población que cada escenario alcanzó.
 La población final del escenario con una Capacidad de Carga alta es 100 veces mayor la población, si lo comparamos con el escenario con Capacidad de Carga baja.
